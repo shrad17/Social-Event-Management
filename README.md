@@ -5,4 +5,4 @@ Tools:
 		Oracle10g, Eclipse, Tom cat server 
 	
 Technology:
-		JAVA, HTML5, Bootstrap, JAVA SCRIPT, CSS3
+		JAVA, JSP-Servlets, JDBC, HTML5, Bootstrap, JAVA SCRIPT, CSS3
